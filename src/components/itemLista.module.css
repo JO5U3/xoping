@@ -1,0 +1,55 @@
+.bloco2Items {
+    margin: 0% 0% 0 10%;
+    padding: 0;
+    border: 0;
+    text-align: start;
+    color: rgb(154, 154, 154);
+}
+
+.iconeDel {
+    visibility: visible;
+    margin: -4.5% 0% 0 10%;
+    padding: 0;
+    border: 0;
+}
+
+.checkBox {
+    margin: 1.5% 0% 1.5% 9.8%;
+    padding: 0% 0% 0 0;
+    font-family: 'Seguisb';
+    /* font-size: 1.5em; */
+    color: rgb(154, 154, 154);
+    width: 50%;
+    text-align: start;
+}
+
+/* .formCheckInput {
+    margin: 0% 0% 0 10%;
+    transform: scale(2);
+    color: rgb(154, 154, 154);
+} */
+
+input {
+    margin: 0 0 0 0;
+    transform: scale(2);
+    color: rgb(154, 154, 154);
+    top: 20%;
+    /* border: 20px solid rgb(154, 154, 154);
+    border-radius: 0.5; */
+}
+
+label {
+    margin: 0 0 0 2%;
+    font-size: 1.5em;
+}
+
+
+.inputLabel {
+    display: inline-block;
+    margin: 0% 0 0 2%;
+    font-size: 1.5em;
+}
+
+.spanDescricao {
+    margin: 0 0 0 5%;
+}

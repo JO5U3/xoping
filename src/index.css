@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Segoeui';
+    src: local('Segoeui'), url(./assets/segoeui.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Segoeuib';
+    src: local('Segoeuib'), url(./assets/segoeuib.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Seguisb';
+    src: local('Seguisb'), url(./assets/seguisb.ttf) format('truetype');
+}
+
